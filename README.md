@@ -42,6 +42,4 @@ Testing was performed using:
 - UPDATE queries to simulate system behavior
 - SELECT queries to validate results
 
-Both **positive and negative test cases** were executed to verify constraints and business rules.
-
 ## Repository Structure
