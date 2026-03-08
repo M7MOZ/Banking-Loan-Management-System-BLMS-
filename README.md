@@ -1,5 +1,10 @@
 # Banking Loan Management System (BLMS) – Database Testing
 
+🔗 **Jira Project (Test Cases & Bug Tracking):**  
+https://muhamedashrafrekabytaha.atlassian.net/projects/BLMS?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases
+
+---
+
 ## Project Overview
 This repository contains database testing artifacts for a Banking Loan Management System (BLMS).  
 The project focuses on validating database integrity, business rules, and relational constraints using SQL queries.
