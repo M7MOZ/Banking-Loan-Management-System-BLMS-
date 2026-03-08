@@ -42,4 +42,3 @@ Testing was performed using:
 - UPDATE queries to simulate system behavior
 - SELECT queries to validate results
 
-## Repository Structure
